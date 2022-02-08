@@ -45,3 +45,6 @@ Y finalmente el archivo `config/config.js` en la parte de los [*scopes*](https:/
 * [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kamerrezz)
 
 > Si quieres contactarme para un trabajo por correo, el asunto debe tener `job - <asunto>` o para soporte `suport - <asunto>`, si no seran ignorados. 
+
+### Creditos
+* Basicamente Todo KamerrEzz
